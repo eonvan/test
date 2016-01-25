@@ -1,0 +1,17 @@
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/absa/AbsaCreditCheck.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/config/DefaultCreditCheck.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/CreditApplicationRepository.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/CreditIntegrationService.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/CreditRestController.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/CreditEvaluation.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/config/WebSecurityConfig.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/absa/AbsaCreditCheckTransformer.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/CreditApplication.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/config/WebApp.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/hsbc/HsbcCreditCheckTransformer.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/hsbc/HsbcCreditCheck.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/config/IntegrationConfig.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/absa/AbsaCreditCheckPayload.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/Status.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/Application.java
+/Users/mac/Documents/workspace-sts-3.7.2.RELEASE/za.co.absa.cib.trade.case.credit/src/main/java/za/co/absa/cib/trade/credit/hsbc/HsbcCreditCheckPayload.java
